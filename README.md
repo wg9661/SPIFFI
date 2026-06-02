@@ -7,7 +7,6 @@
 **Single-shot super-resolution and multidimensional fluorescence microscopy**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange.svg)](https://www.mathworks.com/)
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-2025.12.12.693764-red.svg)](https://www.biorxiv.org/content/10.64898/2025.12.12.693764v1)
 
 </div>
@@ -29,7 +28,7 @@ If you use SPIFFI in your research, please cite this work.
 ## Overview
 
 <div align="center">
-<img src="imgs/SPIFFI_overview.png" width="800"/>
+<img src="imgs/SPIFFI_overview.png" width="1000"/>
 </div>
 
 Conventional fluorescence fluctuation methods require many frames to accumulate temporal intensity fluctuations. SPIFFI instead uses a **linear polarization filtering strategy in the emission optical path** — which simultaneously captures four polarization channels (0°, 45°, 90°, 135°) in a single exposure, and inherently yields a narrower effective PSF in each channel. These polarization-induced spatial fluctuations serve as the input to autocorrelation analysis, delivering super-resolution from **a single snapshot**.
