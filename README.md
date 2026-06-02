@@ -14,7 +14,7 @@
 
 ---
 
-SPIFFI is a MATLAB implementation of **Spatial Polarization-Induced Fluorescence Fluctuation Imaging**, a computational super-resolution technique that exploits spatial fluorescence fluctuations induced by a polarization detector to achieve super-resolution from a **single snapshot**. SPIFFI also enables simultaneous extraction of fluorophore **orientation** (in-plane angle and degree of linear polarization).
+SPIFFI is a MATLAB implementation of **Spatial Polarization-Induced Fluorescence Fluctuation Imaging**, a computational super-resolution technique that exploits spatial fluorescence fluctuations induced by a polarization detection to achieve super-resolution from a **single snapshot**. SPIFFI also enables simultaneous extraction of fluorophore **orientation** (in-plane angle and degree of linear polarization).
 
 This repository accompanies the manuscript:
 
