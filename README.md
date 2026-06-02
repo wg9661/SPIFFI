@@ -134,13 +134,13 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 
 | SMLM | SPIFFI + SOFI |
 |------|---------------|
-| <img src="imgs/twostage/demoResults_SMLM.png" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="300"/> | <img src="imgs/twostage/demoResults_SPIFFI+SOFI.png" alt="SPIFFI+SOFI reconstruction of 80 nm DNA nanorulers" width="300"/> |
+| <img src="imgs/demoResults_SMLM.png" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="300"/> | <img src="imgs/demoResults_SPIFFI+SOFI.png" alt="SPIFFI+SOFI reconstruction of 80 nm DNA nanorulers" width="300"/> |
 
 ### Orientation: GUVs — dipole angle and DoLP
 
 | Angle map | DoLP map |
 |-----------|----------|
-| <img src="imgs/orientation/demoResults_Angle_hsv.png" width="300"/> | <img src="imgs/demoResults_DOLP_isolum.png" width="300"/> |
+| <img src="imgs/demoResults_Angle_hsv.png" width="300"/> | <img src="imgs/demoResults_DOLP_isolum.png" width="300"/> |
 
 ---
 
