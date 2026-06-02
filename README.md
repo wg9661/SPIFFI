@@ -140,7 +140,7 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 
 | Angle map | DoLP map |
 |-----------|----------|
-| <img src="imgs/orientation/demoResults_Angle_hsv.tif" width="300"/> | <img src="imgs/demoResults_DOLP_isolum.tif" width="300"/> |
+| <img src="imgs/orientation/demoResults_Angle_hsv.png" width="300"/> | <img src="imgs/demoResults_DOLP_isolum.png" width="300"/> |
 
 ---
 
