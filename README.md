@@ -121,7 +121,7 @@ run SPIFFI_main_twostage.m
 run SPIFFI_main_orientation.m
 ```
 
-Each script loads the bundled demo data from `SPIFFIdata/` and displays a comparison figure (widefield vs. SPIFFI).
+Each script loads the bundled demo data from `SPIFFIdata/` and displays a comparison figure.
 
 ---
 
