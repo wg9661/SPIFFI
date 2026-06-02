@@ -126,21 +126,21 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 
 ### Single-shot: microtubules
 
-| Widefield | SPIFFI |
-|-----------|--------|
-| <img src="SPIFFIdata/singleshot/demoResults_RLdeconv.tif" width="300"/> | <img src="SPIFFIdata/singleshot/demoResults_SPIFFI.tif" width="300"/> |
+<div align="center">
+<img src="imgs/demoResults_SPIFFI.png" alt="Single-shot SPIFFI reconstruction of microtubules" width="500"/>
+</div>
 
 ### Two-stage: 80 nm DNA nanorulers (SPIFFI + SOFI)
 
 | SMLM | SPIFFI + SOFI |
 |------|---------------|
-| <img src="SPIFFIdata/twostage/demoResults_SMLM.tif" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="300"/> | <img src="SPIFFIdata/twostage/demoResults_SPIFFI+SOFI.tif" alt="SPIFFI+SOFI reconstruction of 80 nm DNA nanorulers" width="300"/> |
+| <img src="imgs/twostage/demoResults_SMLM.png" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="300"/> | <img src="imgs/twostage/demoResults_SPIFFI+SOFI.png" alt="SPIFFI+SOFI reconstruction of 80 nm DNA nanorulers" width="300"/> |
 
 ### Orientation: GUVs — dipole angle and DoLP
 
 | Angle map | DoLP map |
 |-----------|----------|
-| <img src="SPIFFIdata/orientation/demoResults_Angle_hsv.tif" width="300"/> | <img src="SPIFFIdata/orientation/demoResults_DOLP_isolum.tif" width="300"/> |
+| <img src="imgs/orientation/demoResults_Angle_hsv.tif" width="300"/> | <img src="imgs/demoResults_DOLP_isolum.tif" width="300"/> |
 
 ---
 
