@@ -85,7 +85,8 @@ SPIFFI/
 ## System Requirements
 
 - **MATLAB** R2020b or later
-- **Image Processing Toolbox** (required — `deconvlucy`, `imhistmatch`)
+- **Image Processing Toolbox** (required)
+- **Signal Processing Toolbox** (required) 
 - **Parallel Computing Toolbox** (optional — recommended for two-stage mode `parfor` loop)
 - **Operating system**: Windows 10/11 (tested)
 
