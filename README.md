@@ -127,13 +127,13 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 
 ## Demo Results
 
-### Single-shot: microtubules
+### Single-shot: microtubules and mitochondria
 
 <div align="center">
 <img src="imgs/demoResults_SPIFFI.png" alt="Single-shot SPIFFI reconstruction of microtubules" width="500"/>
 </div>
 
-### Two-stage: 80 nm DNA nanorulers (SPIFFI + SOFI)
+### Two-stage: 80 nm DNA nanorulers (SMLM vs SPIFFI + SOFI)
 
 <div align="center">
 <img src="imgs/demoResults_SMLM.png" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="240"/>
