@@ -132,9 +132,9 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 
 ### Two-stage: 80 nm DNA nanorulers (SPIFFI + SOFI)
 
-<div align="center">
-<img src="SPIFFIdata/twostage/demoResults_SPIFFI+SOFI.tif" width="500"/>
-</div>
+| SMLM | SPIFFI + SOFI |
+|------|---------------|
+| <img src="SPIFFIdata/twostage/demoResults_SMLM.tif" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="300"/> | <img src="SPIFFIdata/twostage/demoResults_SPIFFI+SOFI.tif" alt="SPIFFI+SOFI reconstruction of 80 nm DNA nanorulers" width="300"/> |
 
 ### Orientation: GUVs — dipole angle and DoLP
 
