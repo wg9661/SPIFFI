@@ -7,6 +7,7 @@
 **Single-shot super-resolution and multidimensional fluorescence microscopy**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange.svg)](https://www.mathworks.com/)
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-2025.12.12.693764-red.svg)](https://www.biorxiv.org/content/10.64898/2025.12.12.693764v1)
 
 </div>
@@ -28,7 +29,7 @@ If you use SPIFFI in your research, please cite this work.
 ## Overview
 
 <div align="center">
-<img src="imgs/SPIFFI_overview.png" width="1000"/>
+<img src="imgs/SPIFFI_overview.png" alt="SPIFFI overview diagram" width="800"/>
 </div>
 
 Conventional fluorescence fluctuation methods require many frames to accumulate temporal intensity fluctuations. SPIFFI instead uses a **linear polarization filtering strategy in the emission optical path** — which simultaneously captures four polarization channels (0°, 45°, 90°, 135°) in a single exposure, and inherently yields a narrower effective PSF in each channel. These polarization-induced spatial fluctuations serve as the input to autocorrelation analysis, delivering super-resolution from **a single snapshot**.
@@ -54,7 +55,7 @@ Conventional fluorescence fluctuation methods require many frames to accumulate 
 
 ## Repository Structure
 
-```
+```text
 SPIFFI/
 ├── SPIFFI_main_singleshot.m       # Single-shot reconstruction demo
 ├── SPIFFI_main_twostage.m         # Two-stage (SPIFFI + SOFI) demo
@@ -102,16 +103,19 @@ addpath(genpath('./SPIFFIutils'))
 ### 2. Run a demo
 
 **Single-shot super-resolution (microtubules):**
+
 ```matlab
 run SPIFFI_main_singleshot.m
 ```
 
 **Two-stage super-resolution (80 nm DNA nanorulers):**
+
 ```matlab
 run SPIFFI_main_twostage.m
 ```
 
 **Orientation imaging (GUVs):**
+
 ```matlab
 run SPIFFI_main_orientation.m
 ```
@@ -119,7 +123,6 @@ run SPIFFI_main_orientation.m
 Each script loads the bundled demo data from `SPIFFIdata/` and displays a comparison figure (widefield vs. SPIFFI).
 
 ---
-
 
 ## Demo Results
 
@@ -131,15 +134,17 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 
 ### Two-stage: 80 nm DNA nanorulers (SPIFFI + SOFI)
 
-| SMLM | SPIFFI + SOFI |
-|------|---------------|
-| <img src="imgs/demoResults_SMLM.png" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="300"/> | <img src="imgs/demoResults_SPIFFI+SOFI.png" alt="SPIFFI+SOFI reconstruction of 80 nm DNA nanorulers" width="300"/> |
+<div align="center">
+<img src="imgs/demoResults_SMLM.png" alt="SMLM reconstruction of 80 nm DNA nanorulers" width="240"/>
+<img src="imgs/demoResults_SPIFFI+SOFI.png" alt="SPIFFI+SOFI reconstruction of 80 nm DNA nanorulers" width="240"/>
+</div>
 
 ### Orientation: GUVs — dipole angle and DoLP
 
-| Angle map | DoLP map |
-|-----------|----------|
-| <img src="imgs/demoResults_Angle_hsv.png" width="300"/> | <img src="imgs/demoResults_DOLP_isolum.png" width="300"/> |
+<div align="center">
+<img src="imgs/demoResults_Angle_hsv.png" alt="Fluorophore dipole angle map of GUVs" width="240"/>
+<img src="imgs/demoResults_DOLP_isolum.png" alt="Degree of linear polarization map of GUVs" width="240"/>
+</div>
 
 ---
 
@@ -171,4 +176,4 @@ SPIFFI is released under the **GNU General Public License v3.0**. See [LICENSE.t
 For questions, bug reports, or suggestions, please open a GitHub issue or contact:
 
 **Wei Guo** — EPFL  
-wei.guo@epfl.ch
+<wei.guo@epfl.ch>
