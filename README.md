@@ -127,7 +127,7 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 
 ## Demo Results
 
-### Single-shot: microtubules and mitochondria
+### Single-shot: microtubules
 
 <div align="center">
 <img src="imgs/demoResults_SPIFFI.png" alt="Single-shot SPIFFI reconstruction of microtubules" width="500"/>
