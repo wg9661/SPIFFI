@@ -168,7 +168,7 @@ If SPIFFI contributed to your work, please cite:
 
 ## License
 
-SPIFFI is released under the **GNU General Public License v3.0**. See [LICENSE.txt](LICENSE.txt) for details.
+SPIFFI is released under the **GNU General Public License v3.0**. See LICENSE for details.
 
 ---
 
