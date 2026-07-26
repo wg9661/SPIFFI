@@ -43,6 +43,30 @@ Conventional fluorescence fluctuation methods require many frames to accumulate 
 
 ---
 
+## Resolving Molecules Within the Diffraction Limit by Polarization
+
+In these examples, two molecules are separated by **150 nm** (within the diffraction limit) and carry in-plane azimuthal angles of **90°** and **0°**, respectively.
+
+### Fixed dipoles — polarization detection resolves two molecules separated within the diffraction limit 
+
+<table align="center">
+<tr>
+<td align="center"><img src="imgs/dipoleFix-Fig1_orientation.png" alt="Fixed dipoles orientation map" width="380"/></td>
+<td align="center"><img src="imgs/dipoleFix-Fig2.gif" alt="Fixed dipoles polarization detection" width="380"/></td>
+</tr>
+</table>
+
+### Strongly wobbling dipoles — polarization detection remains effective even under severe (±60°) wobbling
+
+<table align="center">
+<tr>
+<td align="center"><img src="imgs/dipole-60wobble-Fig1_orientation.png" alt="Wobbling dipoles orientation map" width="380"/></td>
+<td align="center"><img src="imgs/dipole-60wobble-Fig2.gif" alt="Wobbling dipoles polarization detection" width="380"/></td>
+</tr>
+</table>
+
+---
+
 ## Three Reconstruction Modes
 
 | Mode | Script | Input | Output |
@@ -168,7 +192,7 @@ If SPIFFI contributed to your work, please cite:
 
 ## License
 
-SPIFFI is released under the **GNU General Public License v3.0**. See LICENSE for details.
+SPIFFI is released under the **GNU General Public License v3.0**. See [LICENSE.txt](LICENSE.txt) for details.
 
 ---
 
