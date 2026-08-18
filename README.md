@@ -23,8 +23,6 @@ This repository accompanies the manuscript:
 > Laboratory of Nanoscale Biology (LBEN), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.
 > *bioRxiv* 2025. DOI: [10.64898/2025.12.12.693764](https://www.biorxiv.org/content/10.64898/2025.12.12.693764v1)
 
-If you use SPIFFI in your research, please cite this work.
-
 ---
 
 ## Overview
