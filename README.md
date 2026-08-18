@@ -74,34 +74,6 @@ In these examples, two molecules are separated by **150 nm** (within the diffrac
 | **Two-stage** | `SPIFFI_main_twostage.m` | N frames × 4 channels | SPIFFI per frame → SOFI → ultra-SR image |
 | **Orientation** | `SPIFFI_main_orientation.m` | 1 frame × 4 channels | dipole angle map + DoLP map |
 
----
-
-## Repository Structure
-
-```text
-SPIFFI/
-├── SPIFFI_main_singleshot.m       # Single-shot reconstruction demo
-├── SPIFFI_main_twostage.m         # Two-stage (SPIFFI + SOFI) demo
-├── SPIFFI_main_orientation.m      # Orientation imaging demo
-├── SPIFFIutils/
-│   ├── SPIFFI_functions.m         # Core reconstruction engine
-│   ├── PSFcalculation.m           # Scalar diffraction PSF model
-│   ├── fourierInterpolation.m     # Fourier-domain upsampling
-│   ├── pixelSplit.m               # Virtual resampling
-│   ├── plotAngle.m                # Dipole angle & DoLP visualization
-│   ├── driftEstimation.m          # Sub-pixel drift estimation
-│   ├── driftCorrection.m          # Drift correction
-│   ├── rollingBall.m              # Rolling-ball background subtraction
-│   ├── readAll.m                  # Multi-frame TIFF loader
-│   ├── fire.m                     # Fire colormap
-│   └── isolum.m                   # Isoluminant colormap
-├── SPIFFIdata/
-│   ├── singleshot/                # Demo: microtubules
-│   ├── twostage/                  # Demo: 80 nm DNA nanorulers
-│   └── orientation/               # Demo: giant unilamellar vesicles (GUVs)
-├── Manual.pdf                     # Full user manual
-└── LICENSE.txt                    # GNU GPL v3
-```
 
 ---
 
