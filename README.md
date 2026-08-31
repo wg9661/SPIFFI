@@ -8,7 +8,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange.svg)](https://www.mathworks.com/)
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-2025.12.12.693764-red.svg)](https://www.biorxiv.org/content/10.64898/2025.12.12.693764v1)
+[![NatMethods](https://img.shields.io/badge/NatMethods-2025.12.12.693764-red.svg)](https://www.nature.com/articles/s41592-026-03196-6)
 
 </div>
 
@@ -21,7 +21,7 @@ This repository accompanies the manuscript:
 > **"Spatial Polarization-Induced Fluorescence Fluctuation Imaging (SPIFFI) Enables Single-Shot Super-Resolution and Multidimensional Imaging"**  
 > Wei Guo, Lely Feletti, Aleksandra Radenovic.  
 > Laboratory of Nanoscale Biology (LBEN), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.
-> *bioRxiv* 2025. DOI: [10.64898/2025.12.12.693764](https://www.biorxiv.org/content/10.64898/2025.12.12.693764v1)
+> *Nature Methods* 2026. Link: [https://www.nature.com/articles/s41592-026-03196-6]
 
 ---
 
