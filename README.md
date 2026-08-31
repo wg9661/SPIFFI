@@ -8,7 +8,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange.svg)](https://www.mathworks.com/)
-[![NatMethods](https://img.shields.io/badge/NatMethods-2025.12.12.693764-red.svg)](https://www.nature.com/articles/s41592-026-03196-6)
+[![NatMethods](https://img.shields.io/badge/NatMethods-s41592-026-03196-6-red.svg)](https://www.nature.com/articles/s41592-026-03196-6)
 
 </div>
 
