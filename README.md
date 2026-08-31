@@ -8,6 +8,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange.svg)](https://www.mathworks.com/)
+[![Paper](https://img.shields.io/badge/Nature%20Methods-2026-b31b1b.svg)](https://doi.org/10.1038/s41592-026-03196-6)
 
 </div>
 
@@ -17,10 +18,10 @@ SPIFFI is a MATLAB implementation of **Spatial Polarization-Induced Fluorescence
 
 This repository accompanies the manuscript:
 
-> **"Spatial Polarization-Induced Fluorescence Fluctuation Imaging (SPIFFI) Enables Single-Shot Super-Resolution and Multidimensional Imaging"**  
+> **"SPIFFI enables single-shot super-resolution and multidimensional imaging"**  
 > Wei Guo, Lely Feletti, Aleksandra Radenovic.  
 > Laboratory of Nanoscale Biology (LBEN), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.
-> *Nature Methods* 2026. Link: [https://www.nature.com/articles/s41592-026-03196-6]
+> *Nature Methods* (2026). DOI: [10.1038/s41592-026-03196-6](https://doi.org/10.1038/s41592-026-03196-6)
 
 ---
 
@@ -148,13 +149,12 @@ Each script loads the bundled demo data from `SPIFFIdata/` and displays a compar
 If SPIFFI contributed to your work, please cite:
 
 ```bibtex
-@article{guo2025spiffi,
-  title   = {Spatial Polarization-Induced Fluorescence Fluctuation Imaging (SPIFFI)
-             Enables Single-shot Super-Resolution and Multidimensional Imaging},
-  author  = {Guo, Wei and others},
-  journal = {bioRxiv},
-  year    = {2025},
-  doi     = {10.64898/2025.12.12.693764}
+@article{guo2026spiffi,
+  title   = {SPIFFI enables single-shot super-resolution and multidimensional imaging},
+  author  = {Guo, Wei and Feletti, Lely and Radenovic, Aleksandra},
+  journal = {Nature Methods},
+  year    = {2026},
+  doi     = {10.1038/s41592-026-03196-6}
 }
 ```
 
