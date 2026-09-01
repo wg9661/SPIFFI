@@ -151,7 +151,7 @@ If SPIFFI contributed to your work, please cite:
 ```bibtex
 @article{guo2026spiffi,
   title   = {SPIFFI enables single-shot super-resolution and multidimensional imaging},
-  author  = {Wei Guo,Lely Feletti, Aleksandra Radenovic},
+  author  = {Wei Guo, Lely Feletti, Aleksandra Radenovic},
   journal = {Nature Methods},
   year    = {2026},
   doi     = {10.1038/s41592-026-03196-6}
