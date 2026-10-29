@@ -168,8 +168,8 @@ SPIFFI is released under the **GNU General Public License v3.0**. See [LICENSE.t
 
 ## Contact
 
-For questions, bug reports, or suggestions, please open a GitHub issue or contact:
+> For questions, bug reports, or suggestions, please open a GitHub issue or contact:
 
-**Wei Guo** — EPFL  
+> **Wei Guo** — EPFL  
 > <https://wg9661.github.io/weiguo/> <br>
 > <wei.guo@epfl.ch>
